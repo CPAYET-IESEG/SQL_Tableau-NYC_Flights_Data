@@ -1,0 +1,2 @@
+# SQL_Tableau-NYC_Flights_Data
+We want to investigate different aspects of delays from the different New York City airports (the data stem from 2013, but can be enriched with newer data). To do this, we get database comprising flight information, airport information, plane information, carrier information and weather information. Our goal is to make use of SQL for any preprocessing of the dataset, and use Tableau for creating visual insights. (Thus, avoid for instance creating new columns in Tableau, merging, …).
